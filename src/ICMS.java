@@ -1,6 +1,7 @@
-public class ICMS {
+public class ICMS implements Imposto {
 
-    public double calculaICMS(Orcamento orcamento){
-       return orcamento.getValor() * 0.1;
+    @Override
+    public double calcula(Orcamento orcamento) {
+        return orcamento.getValor() * 0.1;
     }
 }
