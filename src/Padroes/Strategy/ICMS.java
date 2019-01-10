@@ -1,3 +1,5 @@
+package Padroes.Strategy;
+
 public class ICMS implements Imposto {
 
     @Override

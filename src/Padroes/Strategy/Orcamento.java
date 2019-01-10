@@ -1,3 +1,5 @@
+package Padroes.Strategy;
+
 public class Orcamento {
 
     private final double valor;
