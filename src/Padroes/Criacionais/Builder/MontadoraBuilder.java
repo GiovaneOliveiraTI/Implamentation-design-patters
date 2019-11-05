@@ -1,8 +1,7 @@
 package Padroes.Criacionais.Builder;
 
-public interface MontadoraBuilder {
+interface MontadoraBuilder {
 
-    void montar(char tipo, String modelo);
-
-    Veiculo geVeiculo();
+    Veiculo montar(char tipo, String modelo);
+    Veiculo getVeiculo();
 }
