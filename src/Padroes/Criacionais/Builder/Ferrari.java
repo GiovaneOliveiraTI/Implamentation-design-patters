@@ -10,6 +10,6 @@ public class Ferrari extends Veiculo {
     }
 
     public String toString(){
-        return "Carro" + nome + "" + getModelo() + "" +getTipo();
+        return " Carro: " + nome + " " + getModelo() + " " +getTipo();
     }
 }
