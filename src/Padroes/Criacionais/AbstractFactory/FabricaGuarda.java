@@ -6,7 +6,6 @@ public class FabricaGuarda implements Modelo {
     }
 
     public  Gato getGato(){
-        return  new Ragdoll("jupter");
+        return new Ragdoll("jupter");
     }
-
 }
