@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10769b5e-b2d7-485b-8269-c14656b6fd02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Adapter/CaixaArrasteAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Bridge/LivroImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Bridge/Publicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -155,7 +157,7 @@
       <workItem from="1573002146865" duration="403000" />
       <workItem from="1573003040667" duration="601000" />
       <workItem from="1573216856480" duration="2233000" />
-      <workItem from="1573220368354" duration="2704000" />
+      <workItem from="1573220368354" duration="6387000" />
     </task>
     <servers />
   </component>
