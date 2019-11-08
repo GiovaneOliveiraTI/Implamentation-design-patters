@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10769b5e-b2d7-485b-8269-c14656b6fd02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Adapter/CaixaArraste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Adapter/Coordenada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Adapter/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Padrao/Estrutural/Adapter/Vetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/ChainOfResponsability/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/ChainOfResponsability/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/ChainOfResponsability/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/ChainOfResponsability/Orcamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/CalculadorDeImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/CalculadorDeImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/ICMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/ICMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/ISS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/ISS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/Imposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/Imposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/Orcamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Comportamentais/Strategy/TesteDeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Comportamental/Strategy/TesteDeImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/FabricaCampanhia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/FabricaCampanhia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/FabricaGuarda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/FabricaGuarda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Modelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Modelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Pastor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Pastor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Persa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Persa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/PetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/PetShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Ragdoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Ragdoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/AbstractFactory/Shitzu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/AbstractFactory/Shitzu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/Build.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/Build.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/Ferrari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/Jeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/Jeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/Montadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/Montadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/MontadoraBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/MontadoraBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/MontadoraVeiculoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/MontadoraVeiculoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Builder/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Builder/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Prototype/Laboratorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Prototype/Laboratorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Prototype/Ovelha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Prototype/Ovelha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Prototype/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Prototype/PrototypeImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Prototype/PrototypeImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Prototype/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Prototype/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Singleton/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Singleton/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Padroes/Criacionais/Singleton/Singl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padrao/Criacional/Singleton/Singl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572914762971" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Padroes/Comportamentais" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -59,11 +94,11 @@
   </component>
   <component name="RunManager" selected="Application.Singl">
     <configuration name="Build" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Padroes.Criacionais.Builder.Build" />
+      <option name="MAIN_CLASS_NAME" value="Padrao.Criacional.Builder.Build" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Padroes.Criacionais.Builder.*" />
+          <option name="PATTERN" value="Padrao.Criacional.Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="Laboratorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Padroes.Criacionais.Prototype.Laboratorio" />
+      <option name="MAIN_CLASS_NAME" value="Padrao.Criacional.Prototype.Laboratorio" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Padroes.Criacionais.Prototype.*" />
+          <option name="PATTERN" value="Padrao.Criacional.Prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="PetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Padroes.Criacionais.AbstractFactory.PetShop" />
+      <option name="MAIN_CLASS_NAME" value="Padrao.Criacional.AbstractFactory.PetShop" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Padroes.Criacionais.AbstractFactory.Fabrica.*" />
+          <option name="PATTERN" value="Padrao.Criacional.AbstractFactory.Fabrica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="Singl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Padroes.Criacionais.Singleton.Singl" />
+      <option name="MAIN_CLASS_NAME" value="Padrao.Criacional.Singleton.Singl" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Padroes.Criacionais.Singleton.*" />
+          <option name="PATTERN" value="Padrao.Criacional.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,53 +148,6 @@
     <configuration name="TesteDeImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Padroes.Criacionais.ChainOfResponsability.Strategy.TesteDeImpostos" />
       <module name="design-patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="design-patterns" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="design-patterns" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,6 +191,7 @@
       <workItem from="1573002146865" duration="403000" />
       <workItem from="1573003040667" duration="601000" />
       <workItem from="1573216856480" duration="2233000" />
+      <workItem from="1573220368354" duration="1163000" />
     </task>
     <servers />
   </component>
